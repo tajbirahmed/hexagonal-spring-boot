@@ -185,9 +185,7 @@ The project uses `springdoc-openapi-starter-webflux-ui` for automatic OpenAPI do
 ---
 
 ## Author
-- [Your Name]
+- Tajbir
 
 ---
-
-Feel free to contribute or open issues for improvements!
 
